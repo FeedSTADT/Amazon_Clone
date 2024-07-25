@@ -1,4 +1,3 @@
-#Amazon Clone
 
 This repository contains a static web application built to mimic the front-end of Amazon's e-commerce website.
 The project is constructed using pure HTML and CSS, showcasing a range of web design techniques and responsive design principles. 
